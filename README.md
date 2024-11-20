@@ -9,10 +9,6 @@ This project includes the following features:
 - **Sidebar**: Includes navigation links similar to YouTube’s sidebar for Home, Explore, Subscriptions, Originals, YouTube Music, and Library.
 - **Video Grid**: Displays a grid of video previews, each with a thumbnail, title, author, and view count.
 
-## File Structure
-Here’s an overview of the project’s file structure:
-│── icons/ │── channel-pictures/ │── thumbnails/ │── styles/ │ ├── general.css│ ├── header.css│ ├── video.css│ ├── sidebar.css│── index.html
-
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine:
 
